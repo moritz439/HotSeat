@@ -8,6 +8,7 @@ class App extends React.Component {
   render() {
     return (
       <div>
+        <h1>Moritz rules!</h1>
         <IndexLink to="/">Home</IndexLink>
         {' | '}
         <Link to="/fuel-savings">Demo App</Link>
